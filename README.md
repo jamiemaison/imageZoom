@@ -1,5 +1,8 @@
 # imageZoom
-imageZoom is a simple zoom image on hover using only HTML & CSS.
+
+A simple zoom image on hover using only HTML & CSS.
+
+[Demo](http://jsfiddle.net/jamiemaison/dsars0un/)
 
 ## Usage
 ### HTML
